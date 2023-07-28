@@ -1,0 +1,23 @@
+h1{
+    font-family: "librenaskervilla";
+    color: white;
+    text-align: center;
+    margin-right: 180px;
+    
+    margin-left: 270px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+img{
+    border: 5px solid white;
+    margin-left: 600px;
+}
+p{
+    color: white;
+    margin-left:70px;
+    text-align: center;
+}
+div{
+    margin-top: 100px;
+}
